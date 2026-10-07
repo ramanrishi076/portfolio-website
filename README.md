@@ -1,26 +1,35 @@
 # Rishi Raman Saxena — Multi-Page Portfolio
 
+🌐 **Live Portfolio Website:** [https://ramanrishi076.github.io/portfolio-website/](https://ramanrishi076.github.io/portfolio-website/)
+
 Pages: Home, About, Skills, Experience, Projects, Certifications, Contact.
 
 Contact details:
-- Email: rishiramansaxena@gmailcom
+- Email: rishiramansaxena@gmail.com
 - Mobile: +91 9358651471
 - LinkedIn: https://www.linkedin.com/in/rishi-raman-saxena-a2006b32b/
 - GitHub: https://github.com/ramanrishi076
 
-Content is based on the supplied resume plus the latest internship/certificate documents. Open index.html to run locally.
+Content is based on the supplied resume plus the latest internship/certificate documents. Open `index.html` to run locally.
 
 ## Projects
 
-1. AI-Powered Education Assistant
+1. **FinGuard — AI-Powered Instant Digital Wallet & Real-Time Fraud Detection Engine**
+   - Repository: https://github.com/ramanrishi076/FinGuard
 2. **AI-Powered Sentiment Analysis using RoBERTa & LIME** — Ongoing
-3. Personal Portfolio Website
-4. Role-Based Logic Framework for DCM Infotech Ltd.
-
+   - Repository: https://github.com/ramanrishi076/sentiment-analysis-roberta-deberta-tinybert
+3. **AI-Powered Education Assistant**
+   - Repository: https://github.com/ramanrishi076/Education-Project
+4. **Role-Based Logic Framework for DCM Infotech Ltd.**
+5. **Personal Portfolio Website**
+   - Live URL: https://ramanrishi076.github.io/portfolio-website/
+   - Repository: https://github.com/ramanrishi076/portfolio-website
 
 Project repositories:
-- https://github.com/ramanrishi076/Education-Project
+- https://github.com/ramanrishi076/FinGuard
 - https://github.com/ramanrishi076/sentiment-analysis-roberta-deberta-tinybert
+- https://github.com/ramanrishi076/Education-Project
+- https://github.com/ramanrishi076/portfolio-website
 
 ### Certification Links
 - [Anthropic — AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/izfc8kcg63tr)

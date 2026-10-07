@@ -473,10 +473,11 @@ h1, h2, h3, h4 {
   content: ''; position: absolute; inset: 0;
   background: linear-gradient(180deg, transparent 50%, var(--surface) 100%);
 }
-.project-thumb-1 { background: linear-gradient(135deg, #6c63ff33, #a78bfa22, #f472b611); }
+.project-thumb-1 { background: linear-gradient(135deg, #0ea5e933, #10b98125, #6366f122); }
 .project-thumb-2 { background: linear-gradient(135deg, #06d6a033, #6c63ff22, #a78bfa11); }
-.project-thumb-3 { background: linear-gradient(135deg, #f472b633, #fb923c22, #6c63ff11); }
+.project-thumb-3 { background: linear-gradient(135deg, #6c63ff33, #a78bfa22, #f472b611); }
 .project-thumb-4 { background: linear-gradient(135deg, #667eea33, #764ba222, #06d6a011); }
+.project-thumb-5 { background: linear-gradient(135deg, #f472b633, #fb923c22, #6c63ff11); }
 
 /* Dot grid pattern on thumbnails */
 .project-thumb::before {
